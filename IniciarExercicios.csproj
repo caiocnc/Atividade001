@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BaseAtividades\**" />
+    <Compile Remove="Exercicio001\**" />
+    <EmbeddedResource Remove="BaseAtividades\**" />
+    <EmbeddedResource Remove="Exercicio001\**" />
+    <None Remove="BaseAtividades\**" />
+    <None Remove="Exercicio001\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="BaseAtividades\BaseAtividades.csproj" />
+    <ProjectReference Include="Exercicio001\Atividade001 - Exercicios.csproj" />
+  </ItemGroup>
+
+</Project>

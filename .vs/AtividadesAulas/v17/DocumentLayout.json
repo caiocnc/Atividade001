@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\exercicio001\\exercicio06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|solutionrelative:exercicio001\\exercicio06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\exercicio001\\exercicio07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|solutionrelative:exercicio001\\exercicio07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\exercicio001\\exercicio05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|solutionrelative:exercicio001\\exercicio05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\exercicio001\\exercicio03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|solutionrelative:exercicio001\\exercicio03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\exercicio001\\exercicio02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|solutionrelative:exercicio001\\exercicio02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\exercicio001\\exercicio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|solutionrelative:exercicio001\\exercicio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\exercicio001\\exercicio04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80562E1C-C023-4392-AC8C-ED7930FB9C2D}|Exercicio001\\Atividade001 - Exercicios.csproj|solutionrelative:exercicio001\\exercicio04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6364C39E-64B4-41E6-865E-2A028CE5F50F}|IniciarExercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6364C39E-64B4-41E6-865E-2A028CE5F50F}|IniciarExercicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6364C39E-64B4-41E6-865E-2A028CE5F50F}|IniciarExercicios.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\iniciarexercicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6364C39E-64B4-41E6-865E-2A028CE5F50F}|IniciarExercicios.csproj|solutionrelative:iniciarexercicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F14F93F-69C3-4427-BF75-4594C56C5125}|BaseAtividades\\BaseAtividades.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\baseatividades\\baseatividades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F14F93F-69C3-4427-BF75-4594C56C5125}|BaseAtividades\\BaseAtividades.csproj|solutionrelative:baseatividades\\baseatividades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F14F93F-69C3-4427-BF75-4594C56C5125}|BaseAtividades\\BaseAtividades.csproj|d:\\projetos programa\u00E7\u00E3o\\curso shadownildo\\atividade01\\atividade001\\baseatividades\\ibaseexercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F14F93F-69C3-4427-BF75-4594C56C5125}|BaseAtividades\\BaseAtividades.csproj|solutionrelative:baseatividades\\ibaseexercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio02.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio02.cs",
+              "RelativeDocumentMoniker": "Exercicio001\\Exercicio02.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio02.cs",
+              "RelativeToolTip": "Exercicio001\\Exercicio02.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:10:15.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio03.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio03.cs",
+              "RelativeDocumentMoniker": "Exercicio001\\Exercicio03.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio03.cs",
+              "RelativeToolTip": "Exercicio001\\Exercicio03.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:10:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseAtividades.csproj",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\BaseAtividades\\BaseAtividades.csproj",
+              "RelativeDocumentMoniker": "BaseAtividades\\BaseAtividades.csproj",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\BaseAtividades\\BaseAtividades.csproj",
+              "RelativeToolTip": "BaseAtividades\\BaseAtividades.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T19:10:07.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseExercicio.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\BaseAtividades\\IBaseExercicio.cs",
+              "RelativeDocumentMoniker": "BaseAtividades\\IBaseExercicio.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\BaseAtividades\\IBaseExercicio.cs",
+              "RelativeToolTip": "BaseAtividades\\IBaseExercicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:10:05.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercicio04.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio04.cs",
+              "RelativeDocumentMoniker": "Exercicio001\\Exercicio04.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio04.cs",
+              "RelativeToolTip": "Exercicio001\\Exercicio04.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:09:41.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio05.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio05.cs",
+              "RelativeDocumentMoniker": "Exercicio001\\Exercicio05.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio05.cs",
+              "RelativeToolTip": "Exercicio001\\Exercicio05.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:08:16.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio06.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio06.cs",
+              "RelativeDocumentMoniker": "Exercicio001\\Exercicio06.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio06.cs",
+              "RelativeToolTip": "Exercicio001\\Exercicio06.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:08:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio07.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio07.cs",
+              "RelativeDocumentMoniker": "Exercicio001\\Exercicio07.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio07.cs",
+              "RelativeToolTip": "Exercicio001\\Exercicio07.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:08:14.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio01.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio01.cs",
+              "RelativeDocumentMoniker": "Exercicio001\\Exercicio01.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Exercicio001\\Exercicio01.cs",
+              "RelativeToolTip": "Exercicio001\\Exercicio01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:08:13.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IniciarExercicios.csproj",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\IniciarExercicios.csproj",
+              "RelativeDocumentMoniker": "IniciarExercicios.csproj",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\IniciarExercicios.csproj",
+              "RelativeToolTip": "IniciarExercicios.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T18:45:38.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PROJETOS PROGRAMA\u00C7\u00C3O\\Curso Shadownildo\\Atividade01\\Atividade001\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:35:57.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
